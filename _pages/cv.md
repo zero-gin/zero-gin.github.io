@@ -18,7 +18,7 @@ Education
 
 Work experience
 ======
-* Teaching Assitant: 2023–2026
+* Teaching Assistant: 2023–2026
   * The University of Manchester
   * Duties includes: Teaching and Marking
 
