@@ -22,16 +22,11 @@ Work experience
   * The University of Manchester
   * Duties includes: Teaching and Marking
 
-
-  
-Skills
+Honour & Award
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Postgraduate Research Training Funding
+  * The University of Manchester
+  * Issued by Humanities Doctoral Academy, UoM
 
 Publications
 ======
