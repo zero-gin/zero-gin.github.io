@@ -9,9 +9,9 @@ redirect_from:
 
 ## About
 
-I am Bingdian Wang, a PhD researcher at The University of Manchester.
+I am Bingdian Wang, a PhD candidate in Physical Geography at The University of Manchester.
 
-My research focuses on glacier-climate interactions in the Mediterranean region, combining remote sensing, climate reanalysis datasets, and numerical modelling.
+My research is about glaciers and climate change at mid-latitudes, focusing on the Mediterranean region. In addition, I am also interested in cryosphere-atmosphere interactions in other regions worldwide. 
 
 ## Research Interests
 
@@ -30,5 +30,5 @@ Please see the Publications section for my peer-reviewed work.
 
 ## Contact
 
-Feel free to reach out via email or GitHub.
+email: bingdian.wang@manchester.ac.uk
 
