@@ -18,7 +18,8 @@ My research is about glaciers and climate change at mid-latitudes, focusing on t
 - Glacier mass balance reconstruction  
 - Climate change impacts on mountain cryosphere  
 - ERA5 / CMIP6 climate data analysis  
-- GIS and remote sensing applications  
+- GIS and remote sensing applications
+- Quaternary
 
 ## 📖Current Work
 
