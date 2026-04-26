@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-## Welcome
+## About
 
 I am Bingdian Wang, a PhD researcher at The University of Manchester.
 
@@ -22,7 +22,7 @@ My research focuses on glacier-climate interactions in the Mediterranean region,
 
 ## Current Work
 
-I am currently working on long-term glacier change in the Mediterranean region over the past 75 years and future projections under different climate scenarios.
+I am currently working on long-term glacier change in the Mediterranean region and future projections under different climate scenarios.
 
 ## Publications
 
